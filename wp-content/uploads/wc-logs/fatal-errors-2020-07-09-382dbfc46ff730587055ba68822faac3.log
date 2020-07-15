@@ -1,0 +1,74 @@
+2020-07-09T10:12:55+00:00 CRITICAL require(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-09T10:23:12+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 93
+
+2020-07-09T10:42:15+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 74
+
+2020-07-09T10:42:15+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 74
+
+2020-07-09T10:42:26+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 74
+
+2020-07-09T10:42:31+00:00 CRITICAL Can't use function return value in write context in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 74
+
+2020-07-09T10:42:43+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 74
+
+2020-07-09T10:56:55+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:56:56+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:57:10+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:57:23+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:57:34+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:57:36+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:57:57+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:57:59+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T10:58:12+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T11:02:11+00:00 CRITICAL syntax error, unexpected '/' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T11:03:40+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T11:05:54+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 73
+
+2020-07-09T11:10:22+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 76
+
+2020-07-09T11:10:22+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 76
+
+2020-07-09T11:25:37+00:00 CRITICAL Uncaught Error: Object of class WC_Cart could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php:70
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 70
+
+2020-07-09T11:25:37+00:00 CRITICAL Uncaught Error: Object of class WC_Cart could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php:70
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 70
+
+2020-07-09T11:28:27+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Cart as array in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php:70
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 70
+
+2020-07-09T11:29:51+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::cart() in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php:70
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\html5blank-stable\index.php on line 70
+

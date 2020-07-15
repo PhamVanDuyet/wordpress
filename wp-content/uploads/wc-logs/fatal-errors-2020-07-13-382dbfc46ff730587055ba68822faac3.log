@@ -1,0 +1,11 @@
+2020-07-13T04:30:20+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\checkout\review-order.php:28
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2216): wc_get_template('checkout/review...', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): woocommerce_order_review('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\checkout\form-checkout.php(55): do_action('woocommerce_che...')
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-content\plugins\woocomme in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\checkout\review-order.php on line 28
+
