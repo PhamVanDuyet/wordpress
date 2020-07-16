@@ -112,7 +112,7 @@
 
     </div>
 
-    <div class=" container row md-block md-text-center mg-top-90">
+    <div class=" container row md-block md-text-center mg-top-90 ms-mg-top-30">
       <div class="uppercase lg-block">
         <p><a class="color-black mg-left-40" href="#">Shipping, return & exchange policy</a></p>
         <p><a class="color-black mg-left-40" href="#">Available Limited Editions</a></p>
@@ -127,7 +127,7 @@
       </div>
     </div>
 
-    <div class="container line-height-0_7 mg-top-230">
+    <div class="container line-height-0_7 mg-top-230 ms-mg-top-50">
       <p class="uppercase">
         <span class="line-height-0.7 ms-fs-24 font-size-90 font-weight-500 ms-fw-5 ms-lh-0_8">NU:RO is a Minimalist Analog Watch. The watch has two dials, with hours at the top and minutes at the bottom. When they rotate, the time is shown in the middle inside the hourglass.</span>
       </P>
@@ -137,7 +137,7 @@
       <img class="img-1" src="http://washi-mask.com/wp-content/uploads/2020/07/kt-09.jpg" />
     </div>
 
-    <div class=" container row mg-top-230 sm-wrap">
+    <div class=" container row mg-top-230 sm-wrap ms-mg-top-30">
       <div class="line-height-45 col-6 ms-full-w">
         <div class="uppercase">
           <span class="ms-fs-24" style="font-size: 80px; font-weight: 700;">Diameter: 40</span>
@@ -266,47 +266,47 @@
       </span>
     </div>
 
-    <div class="row mg-top-90 delete">
-      <div class="col-4">
+    <div class="row mg-top-90 sm-wrap">
+      <div class="col-4 ms-full-w ms-mg-bt-40">
         <div style="width: 300px; margin: auto;">
           <div style="width: 240px; height: 400px; margin: auto">
           <img src="http://washi-mask.com/wp-content/uploads/2020/07/Untitled-01.jpg" />
           </div>
-          <div class="mg-top-60" style="width: 300px">
+          <div class="mg-top-60 text-center" style="width: 300px">
             <span class="uppercase">THE hour and minute dial work INDEPENDENTLY FROM EACH OTHER. It’s best to Set exact hour using the top dial and set “0” minutes using THE bottom dial.</span>
           </div>
         </div>
       </div>
 
-      <div class="col-4">
+      <div class="col-4 ms-full-w ms-mg-bt-40">
         <div style="width: 300px; margin: auto;">
           <div style="width: 240px; height: 400px; margin: auto">
             <img src="http://washi-mask.com/wp-content/uploads/2020/07/Untitled-02.jpg" />
           </div>
-          <div class="mg-top-60" style="width: 300px">
+          <div class="mg-top-60 text-center" style="width: 300px">
             <span class="uppercase">THE hour and minute dial work INDEPENDENTLY FROM EACH OTHER. It’s best to Set exact hour using the top dial and set “0” minutes using THE bottom dial.</span>
           </div>
         </div>
       </div>
 
-      <div class="col-4">
+      <div class="col-4 ms-full-w ms-mg-bt-40">
         <div style="width: 300px; margin: auto;">
           <div style="width: 240px; height: 400px; margin: auto">
             <img src="http://washi-mask.com/wp-content/uploads/2020/07/Untitled-03.jpg" />
           </div>
-          <div class="mg-top-60" style="width: 300px">
+          <div class="mg-top-60 text-center" style="width: 300px">
             <span class="uppercase">THE hour and minute dial work INDEPENDENTLY FROM EACH OTHER. It’s best to Set exact hour using the top dial and set “0” minutes using THE bottom dial.</span>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="mg-top-60 hieght-515">
+    <div class="mg-top-60 ms-unset-h hieght-515">
       <img class="full-width" src="http://washi-mask.com/wp-content/uploads/2020/07/kt-09.jpg" />
     </div>
 
     <div>
-    <div class="container slideshow-container mg-top-230">
+    <div class="container slideshow-container mg-top-230 ms-mg-top-30">
       <div class="font-size-90 mg-bottom-40 ms-fs-35">UP CLOSE</div>
       <!-- Full-width images with number and caption text -->
       <div class="mySlides fade">
@@ -390,7 +390,7 @@ function showSlides(n){
     </script>
 
   <div class="body container">
-  <div class=" container row mg-top-130 line-height-30 wrap">
+  <div class=" container row ms-pd-top-30 mg-top-130 line-height-30 wrap">
     <?php
     $vnkings = new WP_Query(array(
     'post_type'=>'product',
@@ -452,7 +452,7 @@ function showSlides(n){
       </div>
 
       <div class="col-6 ms-full-w">
-        <div class="uppercase line-height-60 pd-top-270 font-size-80 ms-fs-35" >
+        <div class="uppercase line-height-60 pd-top-270 ms-pd-top-30 font-size-80 ms-fs-35" >
           <div>
           <span>RETURN &</span>
           </div>
